@@ -34,6 +34,7 @@ I'm a passionate Computer Science student at **Université du Québec à Chicout
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -42,6 +43,8 @@ I'm a passionate Computer Science student at **Université du Québec à Chicout
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -90,17 +93,27 @@ I'm a passionate Computer Science student at **Université du Québec à Chicout
 >
 > `R` `Data Visualization`
 
-### 💼 [My Portfolio (Streamlit)](https://github.com/guyjuniorcalvet/Mon_Portfolio)
+### 💼 [My Portfolio – Streamlit (v1)](https://github.com/guyjuniorcalvet/Mon_Portfolio)
 > Personal portfolio web app built with **Streamlit**, featuring bilingual support (FR/EN), project showcase, CV download, and an AI-powered chatbot that generates tailored cover letters using **OpenAI GPT**.
 >
 > `Python` `Streamlit` `OpenAI API`
+
+### 🌟 [My Portfolio – Astro (v2)](https://github.com/guyjuniorcalvet/Mon_Portfolio1-template-)
+> Modern portfolio website rebuilt with **Astro** and **Tailwind CSS**, deployed on GitHub Pages. Uses TypeScript for configuration and features a clean, fast, static site architecture.
+>
+> `Astro` `Tailwind CSS` `TypeScript` `GitHub Pages`
 
 ### 💻 [Data Structures - Postfix Notation (C++)](https://github.com/guyjuniorcalvet/TP2GJCMARIA)
 > Implementation of postfix notation evaluation using stacks and data structures in **C++**.
 >
 > `C++` `Data Structures`
 
-### ⛏️ [Data Mining](https://github.com/guyjuniorcalvet/Forage-des-donn-es)
+### 💻 [Data Structures - Professor File Management (C++)](https://github.com/guyjuniorcalvet/devoir1-cpp)
+> Implementation of a professor file management system using linked lists and data structures in **C++**.
+>
+> `C++` `Data Structures`
+
+### ⛏️ [Data Mining](https://github.com/guyjuniorcalvet/Forage_des_donnees)
 > Academic project focused on data mining techniques including pattern discovery, association rules, and knowledge extraction from structured datasets.
 >
 > `Data Mining` `Python`
