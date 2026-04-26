@@ -113,10 +113,12 @@ I'm a passionate Computer Science student at **Université du Québec à Chicout
 >
 > `C++` `Data Structures`
 
-### ⛏️ [Data Mining](https://github.com/guyjuniorcalvet/Forage_des_donnees)
-> Academic project focused on data mining techniques including pattern discovery, association rules, and knowledge extraction from structured datasets.
+### ⛏️ [Data Mining – Cybersecurity Incident Classification (GUIDE)](https://github.com/guyjuniorcalvet/Forage_des_donnees)
+> **Team project** (Oscar Neveux · Wilson Fotsing · Guy Junior Calvet · Jean-Christophe Barriault) for the Data Mining course at UQAC.
 >
-> `Data Mining` `Python`
+> Automated classification of cybersecurity incidents (*TruePositive* vs *Non-TruePositive*) using the **Microsoft GUIDE dataset** (~2.4 GB), designed to help SOC analysts prioritize alerts at scale. The pipeline handles stratified sampling, NaN imputation, cardinality reduction (MITRE ATT&CK techniques, top-N grouping), temporal feature engineering, and full preprocessing exports. Three models were trained and compared — **Logistic Regression + PCA**, **KNN + PCA**, and **Random Forest** — with the Random Forest selected for production thanks to its best recall (fewest missed incidents). A **Streamlit** interface enables CSV-based batch analysis, manual form input, and KPI / ROC / PR visualizations.
+>
+> `Python` `Scikit-Learn` `Random Forest` `Logistic Regression` `KNN` `PCA` `Streamlit` `Jupyter Notebook` `MITRE ATT&CK`
 
 ---
 
