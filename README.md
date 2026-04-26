@@ -113,10 +113,17 @@ I'm a passionate Computer Science student at **Université du Québec à Chicout
 >
 > `C++` `Data Structures`
 
-### ⛏️ [Data Mining](https://github.com/guyjuniorcalvet/Forage_des_donnees)
-> Academic project focused on data mining techniques including pattern discovery, association rules, and knowledge extraction from structured datasets.
+### 🧊 [Keycube Heatmap 3D](https://github.com/keycube/heatmap3d)
+> Interactive **3D visualization** of Keycube study data, deployed as a static web application on [GitHub Pages](https://keycube.github.io/heatmap3d). Exposes two autonomous views — **Preference** (participant-by-participant preference data + aggregate) and **Reachability** (per-finger and combined heatmaps) — rendered directly on a 3D model of the device. CSV datasets are transformed into browser-usable data at build time via a Python script (`build_local_site.py`). Supports English and French page variants. No Node.js or external Python packages required.
 >
-> `Data Mining` `Python`
+> `JavaScript` `Three.js` `HTML` `Python` `CSV` `WebGL` `GitHub Pages`
+
+### ⛏️ [Data Mining – Cybersecurity Incident Classification (GUIDE)](https://github.com/guyjuniorcalvet/Forage_des_donnees)
+> **Team project** (Oscar Neveux · Wilson Fotsing · Guy Junior Calvet · Jean-Christophe Barriault) for the Data Mining course at UQAC.
+>
+> Automated classification of cybersecurity incidents (*TruePositive* vs *Non-TruePositive*) using the **Microsoft GUIDE dataset** (~2.4 GB), designed to help SOC analysts prioritize alerts at scale. The pipeline handles stratified sampling, NaN imputation, cardinality reduction (MITRE ATT&CK techniques, top-N grouping), temporal feature engineering, and full preprocessing exports. Three models were trained and compared — **Logistic Regression + PCA**, **KNN + PCA**, and **Random Forest** — with the Random Forest selected for production thanks to its best recall (fewest missed incidents). A **Streamlit** interface enables CSV-based batch analysis, manual form input, and KPI / ROC / PR visualizations.
+>
+> `Python` `Scikit-Learn` `Random Forest` `Logistic Regression` `KNN` `PCA` `Streamlit` `Jupyter Notebook` `MITRE ATT&CK`
 
 ---
 
