@@ -113,6 +113,11 @@ I'm a passionate Computer Science student at **Université du Québec à Chicout
 >
 > `C++` `Data Structures`
 
+### 🧊 [Keycube Heatmap 3D](https://github.com/keycube/heatmap3d)
+> Interactive **3D visualization** of Keycube study data, deployed as a static web application on [GitHub Pages](https://keycube.github.io/heatmap3d). Exposes two autonomous views — **Preference** (participant-by-participant preference data + aggregate) and **Reachability** (per-finger and combined heatmaps) — rendered directly on a 3D model of the device. CSV datasets are transformed into browser-usable data at build time via a Python script (`build_local_site.py`). Supports English and French page variants. No Node.js or external Python packages required.
+>
+> `JavaScript` `Three.js` `HTML` `Python` `CSV` `WebGL` `GitHub Pages`
+
 ### ⛏️ [Data Mining – Cybersecurity Incident Classification (GUIDE)](https://github.com/guyjuniorcalvet/Forage_des_donnees)
 > **Team project** (Oscar Neveux · Wilson Fotsing · Guy Junior Calvet · Jean-Christophe Barriault) for the Data Mining course at UQAC.
 >
